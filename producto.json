@@ -1,0 +1,37 @@
+{
+   "producto":{
+       "0":"Calzado",
+       "1":"Computadoras",
+       "2":"Lentes",
+       "3":"Muebles",
+       "4":"Cuadros",
+       "5":"Camisas"
+  
+   },
+   "cantidad":{
+       "0":500,
+       "1":452,
+       "2":120,
+       "3":365,
+       "4":1522,
+       "5":3520
+      
+   },
+   "categoria":{
+        "0":"Prenda",
+        "1":"Objeto",
+        "2":"Prenda",
+        "3":"Objeto",
+        "4":"Objeto",
+        "5":"Prenda"
+        
+   },
+    "disponibilidad":{
+        "0":"No",
+        "1":"Si",
+        "2":"No",
+        "3":"Si",
+        "4":"Si",
+        "5":"No"    
+    }
+}
