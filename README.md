@@ -1,5 +1,8 @@
 # Analisis-de-Datos-Python
 
+
+![Alt Text](https://github.com/1uisMoreno/Analisis-de-Datos-Python/blob/main/SS%20spyder.PNG)
+
 Este repositorio guarda la parte practica a la Introducción al Analisis de Datos con Python. 
 Los temas vistos son:  
 -List comprehension  
