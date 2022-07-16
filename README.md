@@ -1,6 +1,6 @@
 # Analisis-de-Datos-Python
 
-Este repositorio guarda la parte practica del aprendizaje basico de Analisis de Datos con Python. 
+Este repositorio guarda la parte practica a la Introducción al Analisis de Datos con Python. 
 Los temas vistos son:  
 -List comprehension  
 -Funciones de orden superior  
